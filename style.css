@@ -1,0 +1,36 @@
+header{
+    background-color: rgb(150, 140, 140);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-size: 100%;
+}
+.AG{
+    width: 170px;
+    justify-content: start;
+    display: flex;
+}
+.IG{
+    width: 500px;
+    margin: start;
+    justify-content: start;
+    display: flex;
+}
+body{
+    background-color: black;
+}
+main{
+    
+    align-self: start;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-size: 100%;
+}
+
+div{
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+}
